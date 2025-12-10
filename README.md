@@ -25,4 +25,4 @@ Ce dépôt donne les liens vers l'ensemble des supports de cours présentés aux
 - Manipulation de données avec MongoDB :
     - [Insertion et mise à jour de données](https://docs.google.com/presentation/d/19BrnUsVLjZmk-rR3n0EtKHGKszFkaGmA9xY2aCrUlnU/edit?usp=sharing)
     - [Suppression de données](https://docs.google.com/presentation/d/1SUuvsPBjzcxPnPJlzaUjdXNTHA0CkBobN0shralGBN4/edit?usp=sharing)
-
+- [Pattern de conception MongoDB](https://docs.google.com/presentation/d/1gmU38CZRgmVOYs66E16wvDO_ystf8jKJN2QEoBM2oX4/edit?usp=sharing)
